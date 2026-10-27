@@ -1,0 +1,10 @@
+# Ignore dataset splits and models
+plantvillage_split/
+*.h5
+*.keras
+*.tflite
+
+# Python cache & Colab temporary files
+__pycache__/
+.ipynb_checkpoints/
+.config/
